@@ -243,6 +243,11 @@ function drawGraphic(dataset){
 
 }
 
+//////////////////////////////////////////////////////////////////////
+// Look into using underscore to tally up the number of issues voted on to create the adjusted value of potency for contributions per votes.
+
+
+
 // variable for setting the string to be searched for in _.where. This is how the full list of legislators can be accessed:
 var selectedName = "John Boehner (R)";
 
