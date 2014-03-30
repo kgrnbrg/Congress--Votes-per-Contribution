@@ -1,0 +1,295 @@
+,,,,
+$0,2,Gary Miller (R),Lt 0,Transportation unions
+$5000,1,Gary Miller (R),Lt 100,Air transport unions
+$0,-1,Gary Miller (R),Lt 300,Teamsters union
+$19000,0,Gary Miller (R),Lt 500,Merchant marine & longshoremen unions
+$0,0,Gary Miller (R),A0000,Agriculture
+$0,1,Gary Miller (R),A1000,Crop production & basic processing
+$0,2,Gary Miller (R),A1100,Cotton
+$3500,0,Gary Miller (R),A1200,Sugar cane & sugar beets
+$0,1,Gary Miller (R),A1300,Tobacco & Tobacco products
+$0,3,Gary Miller (R),A1500,"Wheat, corn, soybeans and cash grain"
+$0,2,Gary Miller (R),A2000,Milk & dairy producers
+$0,2,Gary Miller (R),A2300,Poultry & eggs
+$0,13,Gary Miller (R),A3000,Livestock
+$0,0,Gary Miller (R),A3100,Animal feed & health products
+$0,3,Gary Miller (R),A3200,Sheep and Wool Producers
+$0,0,Gary Miller (R),A4000,Agricultural services & related industries
+$0,-3,Gary Miller (R),A4100,Agricultural chemicals (fertilizers & pesticides)
+$0,1,Gary Miller (R),A4200,Farm machinery & equipment
+$0,10,Gary Miller (R),A5000,Forestry & Forest Products
+$0,-2,Gary Miller (R),A5200,Paper & pulp mills and paper manufacturing
+$1500,1,Gary Miller (R),A6000,Farm organizations & cooperatives
+$0,2,Gary Miller (R),A6500,Farm bureaus
+$0,4,Gary Miller (R),B0000,Construction & Public Works
+$15000,-12,Gary Miller (R),B0500,Builders associations
+$20999,-3,Gary Miller (R),B1000,"Public works, industrial & commercial construction"
+$0,0,Gary Miller (R),B1200,Dredging Contractors
+$6000,2,Gary Miller (R),B1500,"Construction, unclassified"
+$47000,4,Gary Miller (R),B2000,Residential construction
+$17000,0,Gary Miller (R),B2400,Mobile home construction
+$500,-4,Gary Miller (R),B3000,Special trade contractors
+$11750,9,Gary Miller (R),B3200,Electrical contractors
+$0,3,Gary Miller (R),B3400,"Plumbing, heating & air conditioning"
+$0,0,Gary Miller (R),B3600,Landscaping & Excavation Svcs
+$10000,-16,Gary Miller (R),B4000,"Engineering, architecture & construction mgmt svcs"
+$500,0,Gary Miller (R),B4200,Architectural services
+$0,8,Gary Miller (R),B4300,Surveying
+$500,0,Gary Miller (R),B4400,Engineers - type unknown
+$0,-6,Gary Miller (R),B5000,Building materials
+$14500,-54,Gary Miller (R),B5100,"Stone, clay, glass & concrete products"
+$0,0,Gary Miller (R),B5200,Lumber and wood products
+$0,4,Gary Miller (R),B5300,Plumbing & pipe products
+$0,4,Gary Miller (R),B5400,Other construction-related products
+$0,1,Gary Miller (R),B5500,Electrical Supply
+$1000,9,Gary Miller (R),B6000,Construction equipment
+$0,2,Gary Miller (R),C0000,Communications & Electronics
+$0,1,Gary Miller (R),C1300,Commercial printing & typesetting
+$0,1,Gary Miller (R),C1400,Greeting card publishing
+$0,1,Gary Miller (R),C2000,Entertainment Industry/Broadcast & Motion Pictures
+$7000,1,Gary Miller (R),C2200,Cable & satellite TV production & distribution
+$0,0,Gary Miller (R),C4000,Telecommunications
+$13000,6,Gary Miller (R),C4100,Telephone utilities
+$0,1,Gary Miller (R),C4300,Cellular systems and equipment
+$3000,0,Gary Miller (R),C4600,Telephone & communications equipment
+$0,3,Gary Miller (R),C5000,Electronics manufacturing & services
+$0,-4,Gary Miller (R),C5100,Computer manufacture & services
+$0,-6,Gary Miller (R),C5110,"Computers, components & accessories"
+$5250,-3,Gary Miller (R),C5120,Computer software
+$1000,5,Gary Miller (R),C5130,Data processing & computer services
+$0,9,Gary Miller (R),C5140,Online computer services
+$6500,0,Gary Miller (R),D0000,Defense
+$0,4,Gary Miller (R),D2000,Defense aerospace contractors
+$1000,0,Gary Miller (R),D3000,Defense electronic contractors
+$0,2,Gary Miller (R),D4000,Defense Research & Development
+$0,4,Gary Miller (R),D9000,Defense-related services
+$0,14,Gary Miller (R),E0000,"Energy, Natural Resources and Environment"
+$0,-5,Gary Miller (R),E1000,Energy production & distribution
+$0,-8,Gary Miller (R),E1100,Oil & Gas
+$10000,2,Gary Miller (R),E1110,Major (multinational) oil & gas producers
+$0,-5,Gary Miller (R),E1120,Independent oil & gas producers
+$0,-13,Gary Miller (R),E1140,Natural Gas transmission & distribution
+$0,-3,Gary Miller (R),E1150,"Oilfield service, equipment & exploration"
+$1000,2,Gary Miller (R),E1160,Petroleum refining & marketing
+$1000,0,Gary Miller (R),E1170,Gasoline service stations
+$0,0,Gary Miller (R),E1180,Fuel oil dealers
+$0,-12,Gary Miller (R),E1200,Mining
+$0,-7,Gary Miller (R),E1210,Coal mining
+$0,0,Gary Miller (R),E1220,Metal mining & processing
+$0,0,Gary Miller (R),E1300,Nuclear energy
+$0,-5,Gary Miller (R),E1500,Alternate energy production & services
+$10000,-54,Gary Miller (R),E1600,Electric Power utilities
+$0,-9,Gary Miller (R),E1610,Rural electric cooperatives
+$0,-27,Gary Miller (R),E1620,Gas & Electric Utilities
+$0,-7,Gary Miller (R),E1630,Independent power generation & cogeneration
+$0,-5,Gary Miller (R),E1700,Power plant construction & equipment
+$0,-6,Gary Miller (R),E2000,"Environmental services, equipment & consulting"
+$2500,-2,Gary Miller (R),E3000,Waste management
+$0,5,Gary Miller (R),E4100,Fishing
+$0,-2,Gary Miller (R),E4200,Hunting & wildlife
+$0,16,Gary Miller (R),E5000,Water Utilities
+$5750,7,Gary Miller (R),F0000,"Finance, Insurance & Real Estate"
+$1000,8,Gary Miller (R),F1000,Banks & lending institutions
+$38500,5,Gary Miller (R),F1100,Commercial banks & bank holding companies
+$0,1,Gary Miller (R),F1200,Savings banks & Savings and Loans
+$21000,1,Gary Miller (R),F1300,Credit unions
+$8500,0,Gary Miller (R),F1400,Credit agencies & finance companies
+$0,0,Gary Miller (R),F1420,Payday lenders
+$5000,6,Gary Miller (R),F2000,"Securities, commodities & investment"
+$20250,10,Gary Miller (R),F2100,Security brokers & investment companies
+$2500,0,Gary Miller (R),F2200,Commodity brokers/dealers
+$16500,0,Gary Miller (R),F2300,Investment banking
+$1000,0,Gary Miller (R),F2400,Stock exchanges
+$5000,0,Gary Miller (R),F2500,Venture capital
+$0,-2,Gary Miller (R),F2600,Private Equity & Investment Firms
+$0,1,Gary Miller (R),F3000,Insurance
+$42900,-2,Gary Miller (R),F3100,"Insurance companies, brokers & agents"
+$1000,0,Gary Miller (R),F3200,Accident & health insurance
+$35000,0,Gary Miller (R),F3300,Life insurance
+$14000,0,Gary Miller (R),F3400,Property & casualty insurance
+$31500,0,Gary Miller (R),F4000,Real estate
+$78000,11,Gary Miller (R),F4100,Real Estate developers & subdividers
+$2247101,0,Gary Miller (R),F4200,Real estate agents
+$30000,4,Gary Miller (R),F4300,Title insurance & title abstract offices
+$6359,12,Gary Miller (R),F4500,Building operators and managers
+$34750,0,Gary Miller (R),F4600,Mortgage bankers and brokers
+$0,1,Gary Miller (R),F4700,Other real estate services
+$0,8,Gary Miller (R),F5000,Financial services & consulting
+$27801,3,Gary Miller (R),F5100,Accountants
+$3500,0,Gary Miller (R),F5200,Credit reporting services & collection agencies
+$0,1,Gary Miller (R),F5500,Other financial services
+$1450,0,Gary Miller (R),F7000,Investors
+$8750,0,Gary Miller (R),G0000,General commerce
+$2500,6,Gary Miller (R),G1000,General business associations
+$0,-7,Gary Miller (R),G1100,Chambers of commerce
+$1481,2,Gary Miller (R),G1200,Small business associations
+$0,1,Gary Miller (R),G1300,Pro-business associations
+$0,0,Gary Miller (R),G1400,International trade associations
+$0,5,Gary Miller (R),G2000,Food & Beverage Products and Services
+$0,-1,Gary Miller (R),G2100,Food and kindred products manufacturing
+$0,0,Gary Miller (R),G2300,Meat processing & products
+$2000,0,Gary Miller (R),G2350,Fish Processing
+$0,5,Gary Miller (R),G2400,Food stores
+$0,0,Gary Miller (R),G2500,Food wholesalers
+$0,5,Gary Miller (R),G2600,Beverages (non-alcoholic)
+$0,0,Gary Miller (R),G2700,Beverage bottling & distribution
+$0,1,Gary Miller (R),G2810,Beer
+$28500,4,Gary Miller (R),G2850,Liquor wholesalers
+$1000,2,Gary Miller (R),G2900,Restaurants & drinking establishments
+$0,5,Gary Miller (R),G3000,Wholesale trade
+$0,0,Gary Miller (R),G3500,Import/Export services
+$6500,8,Gary Miller (R),G4000,Retail trade
+$2500,0,Gary Miller (R),G4300,"Department, variety & convenience stores"
+$4000,0,Gary Miller (R),G4500,Hardware & building materials stores
+$3000,0,Gary Miller (R),G4600,Miscellaneous retail stores
+$2500,0,Gary Miller (R),G4900,Drug stores
+$0,0,Gary Miller (R),G5000,Services
+$1000,4,Gary Miller (R),G5220,Direct mail advertising services
+$0,0,Gary Miller (R),G5250,Employment agencies
+$0,5,Gary Miller (R),G5270,Management consultants & services
+$0,1,Gary Miller (R),G5280,Marketing research services
+$0,2,Gary Miller (R),G5290,Security services
+$0,4,Gary Miller (R),G5300,Equipment rental & leasing
+$0,1,Gary Miller (R),G5400,Funeral services
+$0,0,Gary Miller (R),G5700,Pest control
+$0,0,Gary Miller (R),G6100,Amusement/recreation centers
+$2500,2,Gary Miller (R),G6550,Indian Gaming
+$0,6,Gary Miller (R),G6700,Amusement parks
+$0,0,Gary Miller (R),H0000,"Health, Education & Human Resources"
+$0,2,Gary Miller (R),H1000,Health professionals
+$19000,5,Gary Miller (R),H1100,Physicians
+$6500,0,Gary Miller (R),H1120,Optometrists & Ophthalmologists
+$8250,4,Gary Miller (R),H1130,Other physician specialists
+$10000,2,Gary Miller (R),H1400,Dentists
+$12500,2,Gary Miller (R),H1700,Other non-physician health practitioners
+$0,1,Gary Miller (R),H2000,Health care institutions
+$5000,1,Gary Miller (R),H2100,Hospitals
+$2500,1,Gary Miller (R),H2200,Nursing homes
+$2500,0,Gary Miller (R),H3000,Health care services
+$0,0,Gary Miller (R),H3100,Home care services
+$0,2,Gary Miller (R),H3400,Medical laboratories
+$0,2,Gary Miller (R),H3500,AIDS treatment & testing
+$0,2,Gary Miller (R),H3800,Mental Health Services
+$0,3,Gary Miller (R),H4100,Medical supplies manufacturing & sales
+$4000,4,Gary Miller (R),H4300,Pharmaceutical manufacturing
+$5000,0,Gary Miller (R),H4400,Pharmaceutical wholesale
+$0,16,Gary Miller (R),H4500,Biotech products & research
+$0,-34,Gary Miller (R),H5000,Education
+$4050,-15,Gary Miller (R),H5100,Schools & colleges
+$0,3,Gary Miller (R),H5150,Medical schools
+$0,-5,Gary Miller (R),H5200,"Technical, business and vocational schools & svcs"
+$0,-1,Gary Miller (R),H6000,Welfare & Social Work
+money,votes,person,industry id,industry name
+$6134,-45,Gary Miller (R),J1100,Republican/Conservative
+$0,0,Gary Miller (R),J1110,Christian Conservative
+$0,-26,Gary Miller (R),J1200,Democratic/Liberal
+$126500,0,Gary Miller (R),J2200,Republican leadership PAC
+$0,-7,Gary Miller (R),J3000,Consumer groups
+$0,-27,Gary Miller (R),J4000,Fiscal & tax policy
+$8915,5,Gary Miller (R),J6200,Pro-Guns
+$0,-39,Gary Miller (R),J7000,Human Rights
+$0,4,Gary Miller (R),J7120,Abortion policy/Pro-Life
+$0,-7,Gary Miller (R),J7150,Abortion policy/Pro-Choice
+$0,6,Gary Miller (R),J7200,Elderly issues/Social Security
+$0,-9,Gary Miller (R),J7300,Gay & lesbian rights & issues
+$0,-25,Gary Miller (R),J7400,Women's issues
+$0,-6,Gary Miller (R),J7500,Minority/Ethnic Groups
+$32892,6,Gary Miller (R),J7600,Animal Rights
+$0,-8,Gary Miller (R),J7700,Children's rights
+$100,0,Gary Miller (R),J8000,"Labor, anti-union"
+$83300,0,Gary Miller (R),J9000,Other single-issue or ideological groups
+$0,223,Gary Miller (R),JE300,Environmental policy
+$0,4,Gary Miller (R),JH100,Health & welfare policy
+$0,1,Gary Miller (R),JW100,Pro-resource development groups
+$30350,0,Gary Miller (R),K1000,Attorneys & law firms
+$500,6,Gary Miller (R),K1100,Trial Lawyers & law firms
+$22492,0,Gary Miller (R),K2000,Lobbyists & Public Relations
+$0,-10,Gary Miller (R),L0000,Labor Unions
+$0,-1,Gary Miller (R),L1000,Civil service & government unions
+$0,-19,Gary Miller (R),L1100,Federal employees unions
+$0,-5,Gary Miller (R),L1200,State & local govt employee unions
+$0,-9,Gary Miller (R),L1300,Teachers unions
+$0,0,Gary Miller (R),L1400,Police & firefighters unions & associations
+$0,-7,Gary Miller (R),L1500,US Postal Service unions & associations
+$0,-5,Gary Miller (R),L5000,Other unions
+$0,-13,Gary Miller (R),LB100,Building trades unions
+$0,-1,Gary Miller (R),LC100,Communications & hi-tech unions
+$0,-2,Gary Miller (R),LC150,IBEW (Intl Brotherhood of Electrical Workers)
+$0,-2,Gary Miller (R),LE100,Mining unions
+$0,-2,Gary Miller (R),LE200,Energy-related unions (non-mining)
+$0,-3,Gary Miller (R),LG100,Food service & related unions
+$0,-2,Gary Miller (R),LG300,Commercial service unions
+$0,-1,Gary Miller (R),LG500,Other commercial unions
+$0,2,Gary Miller (R),LM100,Manufacturing unions
+$0,-2,Gary Miller (R),LM150,Automotive unions
+$0,-2,Gary Miller (R),M0000,Manufacturing
+$500,-9,Gary Miller (R),M1000,Chemicals
+$6000,-2,Gary Miller (R),M1100,Explosives
+$0,0,Gary Miller (R),M1300,Household cleansers & chemicals
+$2500,-2,Gary Miller (R),M1500,Plastics & Rubber processing & products
+$0,5,Gary Miller (R),M1600,"Paints, Solvents & Coatings"
+$0,-14,Gary Miller (R),M2000,Heavy industrial manufacturing
+$2500,4,Gary Miller (R),M2100,Steel
+$0,4,Gary Miller (R),M2250,Aluminum mining/processing
+$1000,12,Gary Miller (R),M2300,Industrial/commercial equipment & materials
+$0,1,Gary Miller (R),M2400,"Recycling of metal, paper, plastics, etc."
+$0,5,Gary Miller (R),M3000,Personal products manufacturing
+$0,4,Gary Miller (R),M3100,Clothing & accessories
+$0,0,Gary Miller (R),M3300,Toiletries & cosmetics
+$0,4,Gary Miller (R),M3400,Jewelry
+$1000,4,Gary Miller (R),M3500,Toys
+$0,0,Gary Miller (R),M3600,Sporting goods sales & manufacturing
+$0,1,Gary Miller (R),M4000,Household & office products
+$0,0,Gary Miller (R),M4100,Furniture & wood products
+$0,9,Gary Miller (R),M4300,Household appliances
+$3055,3,Gary Miller (R),M5000,Fabricated metal products
+$0,0,Gary Miller (R),M5100,Hardware & tools
+$0,-2,Gary Miller (R),M5200,"Electroplating, polishing & related services"
+$2500,1,Gary Miller (R),M7000,"Paper, glass & packaging materials"
+$0,0,Gary Miller (R),M7200,Glass products
+$0,4,Gary Miller (R),M7300,Metal cans & containers
+$0,-3,Gary Miller (R),M8000,Textiles & fabrics
+$0,0,Gary Miller (R),M9000,Precision instruments
+$0,-1,Gary Miller (R),T0000,Transportation
+$6000,6,Gary Miller (R),T1100,Airlines
+$11000,-2,Gary Miller (R),T1200,Aircraft manufacturers
+$0,4,Gary Miller (R),T1300,Aircraft parts & equipment
+$1000,1,Gary Miller (R),T1400,General aviation (private pilots)
+$0,3,Gary Miller (R),T1600,Aviation services & airports
+$0,5,Gary Miller (R),T2100,Auto manufacturers
+$0,12,Gary Miller (R),T2200,Truck/Automotive parts & accessories
+$11000,0,Gary Miller (R),T2300,"Auto dealers, new & used"
+$5000,4,Gary Miller (R),T2310,"Auto dealers, foreign imports"
+$0,0,Gary Miller (R),T3000,Trucking
+$7000,-1,Gary Miller (R),T3100,Trucking companies & services
+$0,0,Gary Miller (R),T4100,Bus services
+$50000,-2,Gary Miller (R),T5100,Railroads
+$0,0,Gary Miller (R),T6000,Sea transport
+$1555,0,Gary Miller (R),T6100,Ship building & repair
+$10500,0,Gary Miller (R),T6200,Sea freight & passenger services
+$0,0,Gary Miller (R),T7000,Freight & delivery services
+$17500,0,Gary Miller (R),T7100,Express delivery services
+$0,4,Gary Miller (R),T7200,Warehousing
+$0,6,Gary Miller (R),T8000,Recreational transport
+$0,6,Gary Miller (R),T8100,"Motorcycles, snowmobiles & other motorized vehicle"
+$0,4,Gary Miller (R),T8200,Motor homes & camper trailers
+$0,4,Gary Miller (R),T8300,Pleasure boats
+$0,9,Gary Miller (R),T9000,Lodging & tourism
+$0,2,Gary Miller (R),T9100,Hotels & motels
+$0,4,Gary Miller (R),T9300,Resorts
+$500,0,Gary Miller (R),X0000,Other
+$5300,0,Gary Miller (R),X1200,Retired
+$500,3,Gary Miller (R),X3000,Civil servant/public employee
+$0,-19,Gary Miller (R),X3100,Public official (elected or appointed)
+$0,19,Gary Miller (R),X3300,Municipal & county government organizations
+$900,-9,Gary Miller (R),X3500,"Public school teachers, administrators & officials"
+$0,4,Gary Miller (R),X4200,"Museums, art galleries, libraries, etc."
+$0,-2,Gary Miller (R),X5000,Military
+$0,-27,Gary Miller (R),X7000,"Churches, clergy & religious organizations"
+$23038,0,Gary Miller (R),Y1000,"Homemakers, students & other non-income earners"
+-$500,0,Gary Miller (R),Y2000,No employer listed or discovered
+$198348,0,Gary Miller (R),Y4000,Employer listed but category unknown
+$30500,0,Gary Miller (R),Z1100,Republican Candidate Committees
+$30615,0,Gary Miller (R),Z5100,Republican Party Committees
+$1799,0,Gary Miller (R),Z5200,Democratic Party Committees
+$188395,0,Gary Miller (R),Z9500,Transfer from intermediary ( type 24I or 24T)
