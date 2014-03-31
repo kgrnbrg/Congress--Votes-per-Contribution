@@ -103,11 +103,27 @@ body {
     background-color: #edebeb;
 }
 
+p {
+    font-family: 'Montserrat', sans-serif;    
+}
+h3 {
+    font-weight: bold;
+    color: black;
+}
+h4 {
+    margin: 0 0 5px 0;
+    font-weight: bold;
+    color: darkgray;
+}
+ul {
+    list-style: none;
+    margin: 0;
+}
+
 #container {
     width: 960px;
     margin: 2em auto 0;
     font-family: 'Montserrat', sans-serif;    
-
 }
 
 .axis path,
@@ -115,27 +131,25 @@ body {
     fill: none;
     stroke: darkgray;
     shape-rendering: crispEdges;
+    pointer-events: none;
 }
-
 .axis text {
     font-family: 'Montserrat', sans-serif;    
-    font-size: 11px;
+    font-size: 10px;
     fill: darkgray;
-}
-
-
-svg {
-    margin: 2em 0;
-    background-color: white;
-}
-
-svg text {
     pointer-events: none;
 }
 
-p {
-    font-family: 'Montserrat', sans-serif;    
-
+#svg {
+    width: 960px;
+    height: 500px;
+    border: #ede4e3 solid 1px;
+}
+svg {
+    background-color: white;
+}
+svg text {
+    pointer-events: none;
 }
 
 #tooltip {
@@ -152,11 +166,9 @@ p {
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
     pointer-events: none;
 }
-
 #tooltip.hidden {
     display: none;
 }
-
 #tooltip p {
     margin: 0;
     font-family: 'Montserrat', sans-serif;    
@@ -164,29 +176,57 @@ p {
     font-size: 16px;
     line-height: 20px;
 }
-h3 {
-    font-weight: bold;
-    color: black;
+
+
+
+#memberProfile {
+    height: 9.5em;
+    padding: 1em;
+    background-color: white;
+    border: #ede4e3 solid 1px;
+}
+#memberProfile > ul {
+    padding: 1em;
+}
+#memberProfile > ul > li {
+    float: left;
+    padding-right: 2em;
+}
+#memberProfile ul > li > ul {
+    padding-left: 0px;
+}
+#memberProfile > ul > li:nth-child(5) {
     float: right;
 }
-
-h4 {
-    margin: 0 0 5px 0;
-    font-weight: bold;
-    color: black;
+#memberProfile > ul > li > ul > li {
+    text-align: center;
+}
+#memberProfile h3 {
+    margin: 0;
 }
 
-.memberProfile {
-    margin: 2em;
-}
 
 #value4 {
     font-weight: bold;
     color: #7f7f7f;
 }
 
+#totalContributions, #totalVotes {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: rgb(200, 20, 20) !important;
+}
+
 span #value1, #value2, #value3 {
     margin-right: 0.2em;
+}
+
+.red {
+    color: rgb(200, 20, 20) !important;
+}
+
+.redfontsize {
+    font-size: 1.5em;
 }
 
 /* ==========================================================================

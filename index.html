@@ -17,6 +17,7 @@
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
         <script src="js/vendor/d3.v3.js"></script>
         <script src="js/vendor/underscore1.6.0.js"></script>
+        <script src="js/vendor/sugar.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -25,7 +26,32 @@
 
         <!-- Add your site or application content here -->
         <div id="container">
-            <div class="memberProfile">
+            <div id="memberProfile">
+                <ul>
+                    <li id="legislatorPhoto"></li>
+                    <li>
+                        <ul>
+                            <li><h3 id="legislatorName"></h3></li>
+                            <li id="legislatorState">state</li>
+                            <li id="legislatorChamber">chamber</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <li>Total Contributions</li>
+                            <li>(2012-2014)</li>
+                            <li><span class="red redfontsize">$</span><span id="totalContributions"></span></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul>
+                            <li>Total Votes</li>
+                            <li>(2012-2014)</li>
+                            <li><span id="totalVotes" class="redfontsize"></span></li>
+                        </ul>
+                    </li>
+                    <li>score</li>
+                </ul>
             </div>
 
             <div id="tooltip" class="hidden">
@@ -34,9 +60,11 @@
                     <p><span id="value4">0</span></p>
                     <p><span id="value1">0</span> votes in favor</p>
                     <p>$<span id="value2">0</span></p>
-                    <p>$<span id="value3">0</span> per vote</p>
+                    <p class="red">$<span id="value3">0</span> per vote</p>
             </div>
-            <div id="svg"></div>
+
+            <div id="svg" name="Campaign Contributions to Votes"></div>
+
         </div>
 
 
